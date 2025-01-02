@@ -1,2 +1,2 @@
 # investments
-This is the repository for my investment analysis of the automotive industry. 
+This is the repository for my investment analysis using mostly excel. 
